@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 222, 19);
+}
+
+.first_sec {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+
+    font-family: system-ui;
+    font-size: 50px;
+    font-weight: bold;
+
+    color: rgb(251, 255, 246);
+
+    height: 100px;
+    width: 100%;
+    background-color: rgb(255, 171, 15);
+    border: 5px solid rgb(211, 147, 29);
+    border-radius: 5px;
+    border-radius: 3px;
+}
+
+.first_sec span {
+    color: aqua;
+}
+
+.second_sec {
+    
+    font-family: system-ui;
+    font-size: 50px;
+    font-weight: bold;
+
+    color: rgb(251, 255, 246);
+
+    height: 800px;
+    width: 100%;
+    background-color: rgb(255, 217, 0);
+
+    gap: 5px;
+
+}
+
+.second_sec input {
+    font-family: system-ui;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.one {
+    margin-top: 50px;
+
+    font-family: system-ui;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.one span {
+    color: rgb(39, 252, 145);
+}
+
+.one button {
+    font-family: system-ui;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.error {
+    color: red;
+
+    margin-top: 50px;
+
+    font-family: system-ui;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
